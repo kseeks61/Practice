@@ -38,7 +38,8 @@ Below is a link for an article about their win in Paris and their current gold m
 
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
 
-![USA Basketball Men's Olympic Team!]([/Users/kseeks61/Downloads/2021-mens-national-team-roster.html](https://static01.nyt.com/images/2021/08/07/sports/olympics/01olympics-live-chang-1417/01olympics-live-chang-1417-superJumbo-v2.jpg))
+[![USA Basketball Men's Olympic Team!]([/Users/kseeks61/Downloads/2021-mens-national-team-roster.html](https://static01.nyt.com/images/2021/08/07/sports/olympics/01olympics-live-chang-1417/01olympics-live-chang-1417-superJumbo-v2.jpg))](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2021%2F08%2F07%2Fsports%2Folympics%2Fusa-wins-olympic-basketball-final-france.html&psig=AOvVaw043UDoPkhsgDxCB9SCpoY0&ust=1737476798181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi8iNDbhIsDFQAAAAAdAAAAABAJ)![Uploading image.png…]()
+
 
 ## Tableau
 
