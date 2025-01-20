@@ -57,9 +57,14 @@ https://colab.research.google.com/drive/1bK91Fw5EU_5c-vI2kAXcJvtnEoURlatM
 
 *Insert the first penguin chart here*
 
+![Unknown-17](https://github.com/user-attachments/assets/e696e935-eb03-4363-a9a7-bc575f73cbdc)
+
+
 *Describe what the figure is showing.*
 
 *Insert the second penguin chart here*
+
+
 
 *Describe what the figure is showing.*
 
