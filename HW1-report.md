@@ -75,19 +75,31 @@ The graph above is a bar chart of the weight comparing male and female penguins 
 
 *What happened when you removed the outer parentheses from the code? Why?*
 
-It reports their is a syntax error with an unexpected indent. This is beacuse indents in Python are used to show that the code indented is part of the function above. For example, when using an if-else statement, you would put "if x=0:" on the first line and underneath you would indent the code and state what you want to do when the condition is met. Note that if you remove the indents and put the code all on one line it will work again.
+It reports there is a syntax error with an unexpected indent. This is beacuse indents in Python are used to show that the code indented is part of the function above. For example, when using an if-else statement, you would put "if x=0:" on the first line and underneath you would indent the code and state what you want to do when the condition is met. Note that if you remove the indents and put the code all on one line it will work again.
 
 ## Observable and Vega-Lite
 
 *What happens when you replace `markCircle()` with `markSquare()`?*
 
+The data points on the graph change from a circle to a square.
+
 *What happens when you replace `markCircle()` with `markPoint()`?*
+
+The data points change back to circles, but they are not filled in with color.
 
 *What change do you need to make to swap the x and y axes on the scatterplot?*
 
+You can just switch the code where it says vl.x and vl.y to vl.y and vl.x
+
 *Insert the bar chart image here*
 
+![untitled-2](https://github.com/user-attachments/assets/bd5e1c93-d8af-41df-8460-31e0b6b16b4b)
+
+
+
 *Why do you think this chart is the result of this code change?*
+
+
 
 ## References
 
