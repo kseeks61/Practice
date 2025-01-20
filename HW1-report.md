@@ -20,6 +20,10 @@ git reset <file_name> for a specifc file or just git reset to undo all changes t
 
 *Create a bulleted list with at least 3 items*
 
+- Milk
+- Eggs
+- Diapers
+
 *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph must explain your favorite Olympic sport/game, the country that won the most number of olympic GOLD medals (Summer) in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information.*
 
 *Create a level 3 heading*
