@@ -6,10 +6,15 @@ Due: January 26, 2025
 ## Git, GitHub
 
 *What is the URL of the GitHub repo that you created in your personal account?*
+  
    https://github.com/kseeks61/Practice
+
 *What is pull vs clone in GitHub?*
+   
    Clone allows you to create a copy of the repository to your device. Pull adds any changes made to the repository from other users.
+
 *You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?*
+
 git reset <file_name> for a specifc file or just git reset to undo all changes to all files.
 ## Markdown
 
