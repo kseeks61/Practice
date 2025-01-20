@@ -39,8 +39,7 @@ Below is a link for an article about their win in Paris and their current gold m
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
 
 ![image](https://github.com/user-attachments/assets/b4a4740b-10b2-41be-bc7d-04b385caf13e)
-](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2021%2F08%2F07%2Fsports%2Folympics%2Fusa-wins-olympic-basketball-final-france.html&psig=AOvVaw043UDoPkhsgDxCB9SCpoY0&ust=1737476798181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi8iNDbhIsDFQAAAAAdAAAAABAJ)
-
+]
 
 ## Tableau
 
