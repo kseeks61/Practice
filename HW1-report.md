@@ -38,7 +38,7 @@ Below is a link for an article about their win in Paris and their current gold m
 
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
 
-[![USA Basketball Men's Olympic Team]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.usab.com%2Fteams%2F5x5-mens-olympics%2Froster%2F2021-mens-national-team-roster&psig=AOvVaw043UDoPkhsgDxCB9SCpoY0&ust=1737476798181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi8iNDbhIsDFQAAAAAdAAAAABAE)
+[![USA Basketball Men's Olympic Team]!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.usab.com%2Fteams%2F5x5-mens-olympics%2Froster%2F2021-mens-national-team-roster&psig=AOvVaw043UDoPkhsgDxCB9SCpoY0&ust=1737476798181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi8iNDbhIsDFQAAAAAdAAAAABAE)
 
 ## Tableau
 
