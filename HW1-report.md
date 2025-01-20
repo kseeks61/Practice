@@ -62,13 +62,20 @@ https://colab.research.google.com/drive/1bK91Fw5EU_5c-vI2kAXcJvtnEoURlatM
 
 *Describe what the figure is showing.*
 
+The graph above shows the penguin's bill length on the x-axis and their bill's depth on the y-axis in millimeters. Each point represents one penguin, showing their bill length and depth. It looks like their are two different types of penguins as seen by the cluster inn the top left of the graph and the cluster on the bottom right part of the graph. It seems that one group of penguins have a longer bill depth and shorter length, while the other has a shorter bill depth, but longer length.
+
 *Insert the second penguin chart here*
 
+![Unknown-18](https://github.com/user-attachments/assets/8e3ecf7b-c9f3-4909-9492-87bfd6757721)
 
 
 *Describe what the figure is showing.*
 
+The graph above is a bar chart of the weight comparing male and female penguins with three different species. It shows that all males weigh more than their female counterparts regardless of spceis. The graph also shows that the Gentoo species is the heaviest out of all penguin species in the chart.
+
 *What happened when you removed the outer parentheses from the code? Why?*
+
+It reports their is a syntax error with an unexpected indent. This is beacuse indents in Python are used to show that the code indented is part of the function above. For example, when using an if-else statement, you would put "if x=0:" on the first line and underneath you would indent the code and state what you want to do when the condition is met. Note that if you remove the indents and put the code all on one line it will work again.
 
 ## Observable and Vega-Lite
 
