@@ -39,7 +39,7 @@ Below is a link for an article about their win in Paris and their current gold m
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
 
 ![image](https://github.com/user-attachments/assets/b4a4740b-10b2-41be-bc7d-04b385caf13e)
-]
+
 
 ## Tableau
 
