@@ -93,7 +93,8 @@ You can just switch the code where it says vl.x and vl.y to vl.y and vl.x
 
 *Insert the bar chart image here*
 
-![untitled-2](https://github.com/user-attachments/assets/bd5e1c93-d8af-41df-8460-31e0b6b16b4b)
+![untitled-2](https://github.com/user-attachments/assets/d4d05452-dac2-4639-bde0-dde691f49c09)
+
 
 
 
