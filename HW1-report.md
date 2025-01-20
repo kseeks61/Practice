@@ -98,11 +98,13 @@ You can just switch the code where it says vl.x and vl.y to vl.y and vl.x
 
 *Why do you think this chart is the result of this code change?*
 
-
+Because you now removed the code that specifies the countries, making it just count the number of cars without any origin.
 
 ## References
 
 *Every report must list the references (including the URL) that you consulted while completing the assignment. Replace the items below with the references you consulted*
 
-* Reference 1, <https://www.example.com>
-* Reference 2, <https://www.example.com/reallyreallyreally-extra-long-URI/>
+* "Hello World" at GitHub.com, [<https://docs.github.com/en/get-started/start-your-journey/hello-world>]
+* Markdown Basic Syntax, [<https://markdownguide.offshoot.io/basic-syntax/>]
+* Get Started with Tableau Desktop tutorial, [<https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm>]
+* Youtube video, [<https://www.youtube.com/watch?v=x76lsCtCoZg>]
