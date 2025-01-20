@@ -93,9 +93,7 @@ You can just switch the code where it says vl.x and vl.y to vl.y and vl.x
 
 *Insert the bar chart image here*
 
-![untitled-2](https://github.com/user-attachments/assets/d4d05452-dac2-4639-bde0-dde691f49c09)
-
-
+![untitled-2](https://github.com/user-attachments/assets/b8509915-4190-4102-bc36-0f5ea51fca09)
 
 
 *Why do you think this chart is the result of this code change?*
