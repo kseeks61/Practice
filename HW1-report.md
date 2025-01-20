@@ -45,7 +45,7 @@ Below is a link for an article about their win in Paris and their current gold m
 
 *Insert the image of your horizontal bar chart here. Reminder, this should show countries that won the least number of medals only (excluding ZERO) in Paris2024 Summer Olynpics by continent (one country from each continent is ok).*
 
-![Tableau Olympic graph!]([/Users/kseeks61/Downloads/Olympic_graph.png](https://github.com/kseeks61/Practice/blob/main/Olympic_graph.png)
+(![/Users/kseeks61/Downloads/Olympic_graph.png!](https://github.com/kseeks61/Practice/blob/main/Olympic_graph.png)
 
 ## Google Colab
 
