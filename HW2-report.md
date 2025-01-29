@@ -58,3 +58,15 @@ The next task is to find the top 3 genres that got the lowest number of votes. T
 
 This code will effectively turn any zero value in the numeric facet to a blank column. Next we can click on numeric to only keep the numeric values and then adjust the slider all the way to the left. Finally, I sorted the data from lowest to largest values in the "VOTES" column by clicking on the column, clicking "Sort", then selecting "Sort values cells as" "numbers", clicking "smallest to largest", and finally, clicking the button to "Sort based only on this column". Now we have our data sorted and can view the genres of the movies with lowest number of votes. I found that the genres of the 3 movies that have the lowest number of votes are "Drama", "Comedy", and "Animation, Short".
 
+The next task asks to find the director of a 10 minute run time movie in the year 2020 that recieved the highest number of votes. To do so, we first create a text facet for both the "Start Year" column and the "Last Year" column and select the year 2020 for both facets. Next, I switched the "RunTime" column's cells to text and created a text facet for it, then selecting the 10 for a 10 minute run time. After this I simply viewd the data that met all these specifications. Although this method is correct for the task outlined above, I only recieved one row with a director listed and it had 0 votes. This could be due to an error when I first started cleaning the data by accidentally deleting a row that was not a duplicate. However, the directors were Kwaku Alstoan and Glen Wilson for the Documentary "Revolution by Design". The movie with the highest votes was a "Short, Horror, Mystery" named "Goedam" with 694 votes.
+
+Our last task for data analysis is to find the top 5 movies with the highest number of votes, but had a verdict as a "Flop". To complete this, we first need to exit out of all previous facets. Next we can create a text facet for the verdict column and select "Flop", only keeping cells with this value. I then sort the "VOTES" column by highest number first and only based on those values to find the highest votes. By doing so, we can see that the top 5 movies with the highest number of votes and have a verdict of a "Flop" are "Death Note", "The Human Centipede (First Sequence)", "Scary Movie 5", "365 dni", and "Sharknado". 
+
+This concludes the analysis proportion of this report.
+
+
+#### <ins>References
+* OpenRefine Exercise 1 from class: [https://canvas.odu.edu/courses/177656/pages/week-2-tutorial-openrefine?module_item_id=7434098]
+* OpenRefine Exercise 2 from class: [https://canvas.odu.edu/courses/177656/pages/week-2-tutorial-openrefine?module_item_id=7434098]
+* CS 625 OpenRefine Tutorial [https://github.com/odu-cs625-datavis/public-fall24-mcw/blob/main/OpenRefine-Tutorial/README.md]
+* OpenRefine Documentation [https://openrefine.org/docs]
