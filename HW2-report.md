@@ -16,7 +16,8 @@ The task of the cleaning process was to create a new column called Verdict, that
 
 The following is the Python code to execute the conditional statement:
 
-''' if value == 0:
+'''
+    if value == 0:
       return "Not known"
     elif 0 < value <= 4.5:
       return "Flop"
@@ -26,6 +27,7 @@ The following is the Python code to execute the conditional statement:
       return "Hit"
     else:
       return "Super Hit"
+'''
 
 ##### <ins>Creating Verdict Column
 
