@@ -36,5 +36,11 @@ The following is the Python code to execute the conditional statement:
       return "Super Hit"
 
 
-##### <ins>Creating Verdict Column
+##### <ins>Links to Data
+If you would like to see more about my data cleaning process I am providing the links below.
+
+CSV of the cleaned data: 
+
+JSON of Executions:
+
 
