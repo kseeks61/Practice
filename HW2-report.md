@@ -13,7 +13,9 @@ To start the cleaning process of the year column, I first removed the parenthese
 
 ##### <ins>Creating Verdict Column
 The task of the cleaning process was to create a new column called Verdict, that returned "Not known" if the rating value was 0, "Flop" if the rating value was greater than zero but less than or equal to 4.5, "Average" if the value was greater than 4.5 but less than or equal to 6.5, "Hit" if the value was greater than 6.5 but less than or equal to 8.0, and "Super Hit" if the value was greater than 8.0. To complete this task I first selected the ratings columns and selcted the "Add column based on this column..." button in the "Edit column" tab. Once I clicked this, I named the new column "Verdict" and went into the transformation space where it stated "return value". I switched the code to Python since I am most famliar with it and wrote an if-elif-else statement for the conditions (elif stands for else if). Lastly, I created the column and checked the cells in a text facet to ensure the process went how I expected.
+
 The following is the Python code to execute the conditional statement:
+
 ''' if value == 0:
       return "Not known"
     elif 0 < value <= 4.5:
@@ -23,7 +25,7 @@ The following is the Python code to execute the conditional statement:
     elif 6.5 < value <= 8.0:
       return "Hit"
     else:
-      return "Super Hit" ```
+      return "Super Hit"
 
 ##### <ins>Creating Verdict Column
 
